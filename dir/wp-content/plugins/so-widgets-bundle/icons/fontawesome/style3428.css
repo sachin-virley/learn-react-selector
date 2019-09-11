@@ -1,0 +1,36 @@
+.sow-icon-fontawesome {
+	display: inline-block;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.sow-social-media-button {
+    
+}
+
+.sow-social-media-button-facebook .sow-icon-fontawesome {
+    background: url('glyphs/facebook.png') no-repeat center center;
+    background-size: 20px;
+}
+
+.sow-social-media-button-twitter .sow-icon-fontawesome {
+    background: url('glyphs/twitter.png') no-repeat center center;
+    background-size: 20px;
+}
+
+.sow-social-media-button-pinterest .sow-icon-fontawesome {
+    background: url('glyphs/pinterest.png') no-repeat center center;
+    background-size: 20px;
+}
+
+.sow-social-media-button-instagram .sow-icon-fontawesome {
+    background: url('glyphs/instagram.png') no-repeat center center;
+    background-size: 20px;
+}
